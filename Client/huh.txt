@@ -1,0 +1,35 @@
+1) Shimmer
+./save_hl_control.bash divya shimmer run_1
+
+2) Unprompted
+./save_hl_control.bash divya unprompted run_1
+
+./save_hl_control.bash divya fist run_1
+
+./save_hl_control.bash divya touch run_1
+
+./save_hl_control.bash divya wheel run_1
+
+3) QR
+./save_hl_control.bash divya qr run_1
+
+4) Easy
+./save_spot_control.bash divya fist run_1
+
+./save_spot_control.bash divya touch run_1
+
+./save_spot_control.bash divya wheel run_1
+
+./save_spot_control.bash divya tablet run_1
+
+
+4) Complex
+./save_spot_control.bash divya wheel run_1
+
+./save_spot_control.bash divya tablet run_1
+
+./save_spot_control.bash divya fist run_1
+
+./save_spot_control.bash divya touch run_1
+
+
